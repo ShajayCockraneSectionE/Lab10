@@ -1,0 +1,1 @@
+This project is about using boothstraps to create our website. I created a website about some of the most amzaing architectures that were built. My website has a navigation bar with an about page, the architecture page and a contact form page.
